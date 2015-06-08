@@ -1,0 +1,11 @@
+# Lista de valores. Los comentarios tb funcionan aquí!
+
+1	0.2	3
+2	0.1	0
+3	0.12	5
+
+# Después de aquí los valores son un poco más mierders (simulacro)
+
+4	0.34	2
+5	5.6	5
+8	21	6.3
